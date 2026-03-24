@@ -1,0 +1,15 @@
+accuracy: 0.8500
+precision_weighted: 0.8580
+recall_weighted: 0.8500
+f1_weighted: 0.8509
+
+              precision    recall  f1-score   support
+
+     Healthy       0.97      0.93      0.95        30
+   Uncertain       0.80      0.67      0.73        30
+      Stress       1.00      1.00      1.00        30
+    Recovery       0.67      0.80      0.73        30
+
+    accuracy                           0.85       120
+   macro avg       0.86      0.85      0.85       120
+weighted avg       0.86      0.85      0.85       120

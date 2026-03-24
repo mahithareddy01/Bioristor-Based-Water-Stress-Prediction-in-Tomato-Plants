@@ -1,0 +1,5 @@
+predicted_status,irrigate
+Healthy,False
+Uncertain,False
+Stress,True
+Recovery,False
